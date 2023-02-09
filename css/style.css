@@ -219,27 +219,14 @@ img {
     justify-content: center;
     gap: 24px;
     margin-bottom: 8px;
-    
-
  }
 
-
- /* .icon-item  {
-    width: 264px;
-    height: 112px;
-    background: #F4F4FD;
-    border-radius: 4px;
-  
- }
-  */
 
  .feauters-icon {
     display: block;
     width: 64px;
-    height: 164px;
+    height: 64px;
     display: block;
-  
-
  }
 .feauters-box {
     width: 264px;
